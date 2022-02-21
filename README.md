@@ -4,7 +4,7 @@
 
 ### Type of project:- Ecommerce website
 
-#### Team members : i) MODH CHIRAG    ii) MRINAL DEVANTH  iii) SHAMBHAVI SINGH
+#### Team members : i) MODH CHIRAG  
 
 #### Main features implemented in the project : 
 ####                                               i) user authentication  ii) add, modify and delete products only admin  iii) Wishlist & Add to cart  iv) Order Confirmation 
