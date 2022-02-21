@@ -1,8 +1,8 @@
 #### Shalchira-winter_project
 
-### Title of the project:- Shalchira 
+#### Title of the project:- Shalchira 
 
-### Type of project:- Ecommerce website
+#### Type of project:- Ecommerce website
 
 #### Team members : i) MODH CHIRAG  
 
